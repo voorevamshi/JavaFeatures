@@ -1,5 +1,6 @@
 # JavaFeatures
 
+- [JVM](notes/jvm/jvm.md)
 - [Java 5](notes/java5/java5.md)
 - [Java 7](notes/java7/java7.md)
 - [Java 8](notes/java8/java8.md)
